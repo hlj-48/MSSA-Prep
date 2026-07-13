@@ -37,7 +37,7 @@ The full, raw journey to acquiring skills and understanding material for the eve
 
 ## Current Progress
 
-- [X] Create GitHub accoun
+- [X] Create GitHub account
 - [ ] Networking
 - [ ] Security Principles
 - [ ] TryHackMe labs
