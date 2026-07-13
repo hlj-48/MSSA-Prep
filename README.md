@@ -35,6 +35,16 @@ The full, raw journey to acquiring skills and understanding material for the eve
 - SQL
 - Home Lab and Projects
 
+## Current Progress
+
+- [X] Create GitHub accoun
+- [ ] Networking
+- [ ] Security Principles
+- [ ] TryHackMe labs
+- [ ] Identity and Access Management
+- [ ] Risk Management
+- [ ] Cryptography
+- [ ] Incident Response
 
 
 
